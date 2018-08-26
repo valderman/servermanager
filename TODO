@@ -1,0 +1,8 @@
+* TESTING!
+* Endpoints
+* Frontend
+* Scheduler (restarts, backups, etc.)
+* Mods
+  - Relationship between server, mod and instance?
+  - Installation path relative to instance working dir?
+  - How to uninstall?
